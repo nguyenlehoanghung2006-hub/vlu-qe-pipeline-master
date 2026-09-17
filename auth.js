@@ -1,4 +1,4 @@
-Update login comment
+
 function login(username, password) {
   if (!username || !password) {
     return false; // username hoặc password rỗng
