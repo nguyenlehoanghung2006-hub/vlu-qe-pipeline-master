@@ -3,7 +3,7 @@ function login(username, password) {
   if (!username || !password) {
     return false; // username hoặc password rỗng
   }
-  if (username === 'admin' && password === '123') {
+     if (username === 'admin' && password === '9999') {
     return true;
   }
   return false;
